@@ -65,6 +65,20 @@ main {
     
 }
 
+.campo > span {
+    color: white;
+    font-size: 1.2em;
+    padding: 8px 5px 5px 8px;
+}
+
+.campo #seuemail:focus-within {
+    background-color: white;
+}
+.campo #ola:focus-within{
+    background-color: white;
+
+}
+
 form label {
     display: none;
 }
@@ -76,18 +90,20 @@ form label {
 #seuemail {
     height: 30px;
     margin-bottom: 4px;
-    border-radius: 4px;
+    border-radius: 7px;
     border: 0px;
-    width: 86%;
+    width: 80%;
+    background-color: rgb(204, 235, 235);
    
 }
 
 #ola {
     height: 30px;
     margin-bottom: 4px;
-    border-radius: 4px;
+    border-radius: 7px;
     border: 0px;
-    width: 86%;
+    width: 80%;
+    background-color: rgb(204, 235, 235);
     
 }
 
