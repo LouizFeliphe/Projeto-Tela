@@ -7,8 +7,7 @@
         background-image: linear-gradient(to top, #49a09d, #5f2c82);
     }
     #login {
-        max-width: 900px;
-        min-width: 720px;
+       width: 80vw;
     }
 
     #login #imagem {
@@ -29,10 +28,10 @@
     body {
         background-image: linear-gradient(to top, #49a09d, #5f2c82);
     }
-    
+
     #login {
-        max-width: 1900px;
-        min-width: 900px;
+        max-width: 1500px;
+        min-width: 950px;
        
     }
     #login #imagem {

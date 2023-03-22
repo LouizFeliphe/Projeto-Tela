@@ -26,8 +26,7 @@ main {
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: white;
-    max-width: 680px;
-    min-width: 340px;
+    width: 55%;
     height: 500px;
     border-radius: 20px;
     overflow: hidden;
