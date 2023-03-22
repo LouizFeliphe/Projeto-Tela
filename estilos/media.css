@@ -27,6 +27,14 @@
     #formulario > p {
         font-size: 1.1em;
        }
+
+   #seuemail {
+    width: 90%;
+   }
+
+   #ola {
+    width: 90%;
+   }
 }
 @media screen and (min-width: 992px) {
 
@@ -57,5 +65,11 @@
     font-size: 1.2em;
    }
    
-   
+   #seuemail {
+    width: 90%;
+   }
+
+   #ola {
+    width: 90%;
+   }
 }
