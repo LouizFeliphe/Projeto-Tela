@@ -56,10 +56,10 @@ main {
 
 .campo {
     display: inline-block;
-    background-color: rgb(102, 44, 177);
+    background-color: rgb(174, 163, 189);
     border-radius: 7px;
     margin: 10px 0px 10px 0px;
-    width: 98%;
+    width: 88%;
     
 }
 
