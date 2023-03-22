@@ -30,8 +30,7 @@
     }
 
     #login {
-        max-width: 1500px;
-        min-width: 950px;
+       width: 950px;
        
     }
     #login #imagem {
@@ -45,8 +44,6 @@
         width: 50%;
     }
 
-    #login h1 {
-       padding-bottom: 20px;
-    }
+   
    
 }
