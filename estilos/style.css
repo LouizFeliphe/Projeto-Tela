@@ -26,7 +26,7 @@ main {
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: white;
-    width: 250px;
+    width: 280px;
     height: 500px;
     border-radius: 20px;
     overflow: hidden;
@@ -50,3 +50,50 @@ main {
     text-align: justify;
 }
 
+#formulario p {
+    font-size: 0.8em;
+}
+
+.campo {
+    display: inline-block;
+    background-color: rgb(102, 44, 177);
+    border-radius: 7px;
+    margin: 10px 0px 10px 0px;
+    width: 100%;
+    
+}
+
+.enviar {
+    
+}
+
+#seuemail {
+    height: 30px;
+    margin-bottom: 4px;
+    border-radius: 4px;
+    border: 0px;
+}
+
+#ola {
+    height: 30px;
+    margin-bottom: 4px;
+    border-radius: 4px;
+    border: 0px;
+}
+
+.enviar {
+    display: block;
+    width: 92%;
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+.enviar1 {
+    font-size: 1.4em;
+}
+
+.senha {
+    margin-top: 10px;
+    display: block;
+}
