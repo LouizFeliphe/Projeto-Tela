@@ -56,10 +56,11 @@ main {
 
 .campo {
     display: inline-block;
-    background-color: rgb(174, 163, 189);
+    background-color: rgb(112, 57, 189);
     border-radius: 7px;
     margin: 10px 0px 10px 0px;
-    width: 88%;
+   
+   
     
 }
 
@@ -83,7 +84,6 @@ main {
 
 .enviar {
     display: block;
-    width: 92%;
     text-align: center;
     margin-top: 20px;
 
