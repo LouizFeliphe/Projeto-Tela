@@ -32,6 +32,11 @@
     width: 90%;
    }
 
+   form [type=submit] {
+      width: 90%;
+
+   }
+
    #ola {
     width: 90%;
    }
@@ -72,4 +77,9 @@
    #ola {
     width: 90%;
    }
+   
+   form [type=submit] {
+    width: 90%;
+
+ }
 }
